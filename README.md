@@ -5,5 +5,4 @@
 - Atualmente estou cursando SI 💻
 - Estou Estudando Para ir Para a Área de Font-end
 - 18y
-- Front-end
 
